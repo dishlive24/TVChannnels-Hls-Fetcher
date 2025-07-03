@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.distroscale.tv.android"><img src="" alt="⭐ DistroTV ⭐" width="200"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.distroscale.tv.android"><img src="https://raw.githubusercontent.com/dishlive24/DistroTV-Channels-Link-Headers/refs/heads/main/images/distrotvlogo.png" alt="⭐ DistroTV ⭐" width="200"></a>
   <br>
   ⭐ DistroTV ⭐
   <br>
@@ -19,7 +19,7 @@
  
 
 <h1 align="center">
- <a href=""><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/aynaott_banner.jpeg"></a>
+ <a href=""><img src="[https://raw.githubusercontent.com/dishlive24/DistroTV-Channels-Link-Headers/refs/heads/main/images/distrotv.png]"></a>
 </h1>
 
 
