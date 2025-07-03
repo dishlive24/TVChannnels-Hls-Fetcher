@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h2 align="center">A Script Designed to Auto GitHub Actions, Scheduling Code Runs to Keep The DistroTV Channels HLS Links Up-to-Date</h2>
+<h2 align="center">A Script Designed to Auto GitHub Actions, Scheduling Code Runs to Keep The DistroTV Channels Updated HLS Links</h2>
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -56,4 +56,5 @@
 * The codes of the repo are encrypted for security reasons. Please avoid trying to run or deploy them. The repo only lets you Fetch the Hls Links and Playlist.
   
 # ✉️Find Me On 
-**Telegram** [FreeDishBhai] (https://t.me/FreeDishbhai)
+**Telegram** 
+[FreeDishBhai] 
