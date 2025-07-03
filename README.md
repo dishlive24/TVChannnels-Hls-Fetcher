@@ -32,14 +32,16 @@
 * You Can Easily Use in an Any IPTV Player App for Streaming TV Channels 
 
 # 🎬How To Play
+**Use NS Player**
+[Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
 
-**📱Android**
-*Use NS (Network Stream Player) [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
-* Add This PlayList [Playlist Link]()
+**Add This PlayList** 
+[Playlist Link](https://raw.githubusercontent.com/dishlive24/DistroTV-Hls-Fetcher/refs/heads/main/channels.m3u)
 
 <h1 align="center">
  <a href=""><img src="https://raw.githubusercontent.com/dishlive24/DistroTV-Hls-Fetcher/refs/heads/main/images/ns.png"></a>
 </h1>
+
 <h1 align="center">
  <a href=""><img src="https://raw.githubusercontent.com/dishlive24/DistroTV-Hls-Fetcher/refs/heads/main/images/nsplayer.png"></a>
 </h1>
@@ -53,11 +55,5 @@
 * Please give me proper credit if you share this content. Otherwise, I will take it down.
 * The codes of the repo are encrypted for security reasons. Please avoid trying to run or deploy them. The repo only lets you Fetch the Hls Links and Playlist.
   
-# 💰Support
-
-<a href="https://github.com/dishlive24/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-
-
-
-# ✉️Find Me on 
+# ✉️Find Me On 
+**Telegram** [FreeDishBhai] (https://t.me/FreeDishbhai)
