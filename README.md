@@ -1,26 +1,3 @@
-<h1 align="center">
-  <br>
-  <a href="https://play.google.com/store/apps/details?id=com.distroscale.tv.android"><img src="https://raw.githubusercontent.com/dishlive24/DistroTV-Hls-Fetcher/refs/heads/main/images/distrotvlogo.png" alt="⭐ DistroTV ⭐" width="200"></a>
-  <br>
-  ⭐ DistroTV ⭐
-  <br>
-</h1>
-
-<h2 align="center">A Script Designed to Auto GitHub Actions, Scheduling Code Runs to Keep The DistroTV Channels Updated HLS Links</h2>
-
- 
-
-# 📕Introdicton 
-
-**DistroTV Explore A World Of Free TV Watch Free Live TV Channels On DistroTV - News, Sports, Movies & Shows**
-
-
-# 🛡️Key Features
-
-* All The Channel HLS Links and PlayList Are Updated Every Time If Any New Channels Added 
-* Worldwide Channels Are Also Available 
-* You Can Easily Use in an Any IPTV Player App for Streaming TV Channels 
-
 # 🎬How To Play
 
 **📱Android**
@@ -29,14 +6,14 @@
 [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
 
 **Add This PlayList** 
-[Playlist Link](https://raw.githubusercontent.com/dishlive24/DistroTV-Hls-Fetcher/refs/heads/main/channels.m3u)
+[Playlist Link](https://raw.githubusercontent.com/dishlive24/TVChannels-Hls-Fetcher/refs/heads/main/channels.m3u)
 
 <h1 align="center">
- <a href=""><img src="https://raw.githubusercontent.com/dishlive24/DistroTV-Hls-Fetcher/refs/heads/main/images/ns.png"></a>
+ <a href=""><img src="https://raw.githubusercontent.com/dishlive24/TVChannels-Hls-Fetcher/refs/heads/main/images/ns.png"></a>
 </h1>
 
 <h1 align="center">
- <a href=""><img src="https://raw.githubusercontent.com/dishlive24/DistroTV-Hls-Fetcher/refs/heads/main/images/nsplayer.png"></a>
+ <a href=""><img src="https://raw.githubusercontent.com/dishlive24/TVChannels-Hls-Fetcher/refs/heads/main/images/nsplayer.png"></a>
 </h1>
 
 # 🚬Credits
