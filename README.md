@@ -9,11 +9,11 @@
 [Playlist Link](https://raw.githubusercontent.com/dishlive24/TVChannnels-Hls-Fetcher/refs/heads/main/channels.m3u)
 
 <h1 align="center">
- <a href=""><img src="https://raw.githubusercontent.com/dishlive24/TVChannels-Hls-Fetcher/refs/heads/main/images/ns.png"></a>
+ <a href=""><img src="https://raw.githubusercontent.com/dishlive24/TVChannnels-Hls-Fetcher/refs/heads/main/images/ns.png"></a>
 </h1>
 
 <h1 align="center">
- <a href=""><img src="https://raw.githubusercontent.com/dishlive24/TVChannels-Hls-Fetcher/refs/heads/main/images/nsplayer.png"></a>
+ <a href=""><img src="[https://raw.githubusercontent.com/dishlive24/TVChannels-Hls-Fetcher/refs/heads/main/images/nsplayer.png](https://raw.githubusercontent.com/dishlive24/TVChannnels-Hls-Fetcher/refs/heads/main/images/ns.png)"></a>
 </h1>
 
 # 🚬Credits
