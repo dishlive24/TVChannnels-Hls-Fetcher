@@ -2,7 +2,7 @@
 
 **📱Android**
 
-**Use NS Player**
+ **Use NS Player**
 [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
 
 **Add This PlayList** 
@@ -13,7 +13,7 @@
 </h1>
 
 <h1 align="center">
- <a href=""><img src="[https://raw.githubusercontent.com/dishlive24/TVChannels-Hls-Fetcher/refs/heads/main/images/nsplayer.png](https://raw.githubusercontent.com/dishlive24/TVChannnels-Hls-Fetcher/refs/heads/main/images/ns.png)"></a>
+ <a href=""><img src="https://raw.githubusercontent.com/dishlive24/TVChannnels-Hls-Fetcher/refs/heads/main/images/nsplayer.png"></a>
 </h1>
 
 # 🚬Credits
