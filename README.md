@@ -48,6 +48,5 @@
 * Please give me proper credit if you share this content. Otherwise, I will take it down.
 * The codes of the repo are encrypted for security reasons. Please avoid trying to run or deploy them. The repo only lets you Fetch the Hls Links and Playlist.
   
-# Find Me On 
-✉️ **Telegram** **@FreeDishBhai** 
+
 
