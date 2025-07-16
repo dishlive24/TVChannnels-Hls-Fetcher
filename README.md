@@ -8,21 +8,11 @@
 
 <h2 align="center">A Script Designed to Auto GitHub Actions, Scheduling Code Runs to Keep The DistroTV Channels Updated HLS Links</h2>
 
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Made_With-Python_3.12%2B-blue"
-         alt="Gitter">
-<a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
  
 
-<h1 align="center">
- <a href=""><img src="https://raw.githubusercontent.com/dishlive24/DistroTV-Hls-Fetcher/refs/heads/main/images/distrolandscape.png"></a>
-</h1>
-
-
-
 # 📕Introdicton 
-* [DistroTV](https://play.google.com/store/apps/details?id=com.distroscale.tv.android) Explore A World Of Free TV Watch Free Live TV Channels On DistroTV - News, Sports, Movies & Shows 
+
+**DistroTV Explore A World Of Free TV Watch Free Live TV Channels On DistroTV - News, Sports, Movies & Shows**
 
 
 # 🛡️Key Features
@@ -58,5 +48,6 @@
 * Please give me proper credit if you share this content. Otherwise, I will take it down.
 * The codes of the repo are encrypted for security reasons. Please avoid trying to run or deploy them. The repo only lets you Fetch the Hls Links and Playlist.
   
-# ✉️ Find Me On 
+# Find Me On 
+✉️ **Telegram** **@FreeDishBhai** 
 
