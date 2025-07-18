@@ -1,4 +1,4 @@
-name: Update Sun-NXT.m3u 
+name: Update Sun-NXT.m3u
 
 on:
   workflow_dispatch:
@@ -19,9 +19,9 @@ jobs:
       run: |
         curl -o original.m3u $FILE_URL
 
-        # Add notice to beginning
-        echo '# This m3u presented by https://t.me/FreeDishBhai' > SonyLIV.m3u
-        echo '# API from dishlive24 (FreeDishBhai)' >> SonyLIV.m3u
+        # Add custom notice at the top of the file
+        echo '# This m3u presented by https://t.me/FreeDishBhai' > Sun-NXT.m3u
+        echo '# API from dishlive24 (FreeDishBhai)' >> Sun-NXT.m3u
         cat original.m3u >> Sun-NXT.m3u
         rm original.m3u
 
