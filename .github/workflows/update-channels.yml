@@ -17,7 +17,7 @@ jobs:
       env:
         FILE_URL: ${{ secrets.CHANNELS_FILE_URL }}
       run: |
-        curl -o SonyLIV.m3u $FILE_URL
+        curl -o channels.m3u $FILE_URL
 
     - name: Commit and push changes
       env:
@@ -26,8 +26,8 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-        git add SonyLIV.m3u
-        git commit -m "Update SonyLIV.m3u file." || echo "No changes to commit"
+        git add channels.m3u
+        git commit -m "Update channels.m3u file." || echo "No changes to commit"
 
         git pull origin main --rebase
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
