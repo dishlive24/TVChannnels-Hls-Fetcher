@@ -1,9 +1,9 @@
-name: Update channels.m3u
+name: Update Sun-NXT.m3u 
 
 on:
-  workflow_dispatch:  # Manual trigger
+  workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'  # Every 12 hours
+    - cron: '0 */12 * * *'
 
 jobs:
   update-file:
@@ -13,11 +13,17 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Fetch channels.m3u from hosting
+    - name: Fetch Sun-NXT.m3u from hosting and add notice
       env:
-        FILE_URL: ${{ secrets.CHANNELS_FILE_URL }}
+        FILE_URL: ${{ secrets.SUNNXTCHANNELS_FILE_URL }}
       run: |
-        curl -o channels.m3u $FILE_URL
+        curl -o original.m3u $FILE_URL
+
+        # Add notice to beginning
+        echo '# This m3u presented by https://t.me/FreeDishBhai' > SonyLIV.m3u
+        echo '# API from dishlive24 (FreeDishBhai)' >> SonyLIV.m3u
+        cat original.m3u >> Sun-NXT.m3u
+        rm original.m3u
 
     - name: Commit and push changes
       env:
@@ -26,8 +32,8 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-        git add channels.m3u
-        git commit -m "Update channels.m3u file." || echo "No changes to commit"
+        git add Sun-NXT.m3u
+        git commit -m "Update Sun-NXT.m3u file." || echo "No changes to commit"
 
         git pull origin main --rebase
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
