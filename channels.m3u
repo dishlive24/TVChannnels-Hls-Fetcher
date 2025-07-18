@@ -100,9 +100,9 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS",Live Sports-1
-http://xtv.ooo:8080/live/03353290992/03353290992/109987.ts
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS",Live Sports-2
-http://xtv.ooo:8080/live/03353290992/03353290992/346373.ts
+https://7pal.short.gy/tntspts2
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS",Live Sports-3
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T-Sports [1]
@@ -170,13 +170,11 @@ http://xtv.ooo:8080/live/03353290992/03353290992/371469.ts
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png" group-title="SPORTS",CricLife-2
 http://xtv.ooo:8080/live/03353290992/03353290992/371470.ts
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS",Sky Sports Cricket
-http://muka03.wanicelife.com:8880/live/D12m0405/88855553/2879.ts
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS",Sky Sports Cricket [2]
 http://astv.life:8080/anil@123/anil@123/208260
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS",Sky Sports Main Event
-https://off1.gogohaalmal.com:1686/hls/skysme.m3u8?md5=IQ6wqqjUsfKOkIMvqftiuw&expires=1751203351
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS",Sky Sports Action
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS",Sky Sports Football
-http://xtv.ooo:8080/live/03353290992/03353290992/346241.ts
+https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="SPORTS",Super Sport Cricket
 http://xtv.ooo:8080/live/03353290992/03353290992/167592.ts
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="SPORTS",Super Sport Cricket [2]
@@ -267,6 +265,10 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Duronto TV
 https://bd.yflix.top/live.php?segment=3a4c9ee6063b7da5c97744ecdf4c9c91a40773a1fc2c336f570935eeab8b5060ffa1cd5bffdd8400e21b40733b49ab2aecb1de7a7d5bee746923af7dbfca0e3d89db025f14687710669fe641042ecc40817d007c204386f1dd166bb41fb7188241706ed38e180bb232138346e013ae05ce6aa195ccf57c42356feb1c44c3145bd0f567b6c1cb7cefc04089326cfdf4fd01576910cc7afe6b8d44eec74b81926df17525b2e9ae21c15889fbe7b12a644b3006b3728d7e094bc960722b1c0ca843
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Kid Screation
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick Jr
+http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Kids",Sony YAY
 http://xott.live:8080/17871787/17871787/314753
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids",Pogo
