@@ -17,7 +17,7 @@ jobs:
       env:
         FILE_URL: ${{ secrets.CHANNELS_FILE_URL }}
       run: |
-        curl -o channels.m3u $FILE_URL
+        curl -o SonyLIV.m3u $FILE_URL
 
     - name: Commit and push changes
       env:
