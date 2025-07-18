@@ -5,8 +5,7 @@
  **Use NS Player**
 [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
 
-**Add This PlayList** 
-[Playlist Link](https://raw.githubusercontent.com/dishlive24/TVChannnels-Hls-Fetcher/refs/heads/main/channels.m3u)
+**Add PlayList URL In IPTV Player & Watch Your Favourite Channels** 
 
 <h1 align="center">
  <a href=""><img src="https://raw.githubusercontent.com/dishlive24/TVChannnels-Hls-Fetcher/refs/heads/main/images/ns.png"></a>
