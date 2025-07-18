@@ -1,0 +1,40 @@
+name: Update SonyLIV.m3u
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Fetch SonyLIV.m3u from hosting and add notice
+      env:
+        FILE_URL: ${{ secrets.CHANNELS_FILE_URL }}
+      run: |
+        curl -o original.m3u $FILE_URL
+
+        # Add notice to beginning
+        echo '# This m3u presented by https://t.me/FreeDishBhai' > SonyLIV.m3u
+        echo '# API from dishlive24 (FreeDishBhai)' >> SonyLIV.m3u
+        cat original.m3u >> SonyLIV.m3u
+        rm original.m3u
+
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+        git add SonyLIV.m3u
+        git commit -m "Update SonyLIV.m3u file." || echo "No changes to commit"
+
+        git pull origin main --rebase
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+        git push origin HEAD:main
