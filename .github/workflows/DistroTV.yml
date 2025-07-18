@@ -1,0 +1,40 @@
+name: Update DistroTV.m3u
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Fetch DistroTV.m3u from hosting and add notice
+      env:
+        FILE_URL: ${{ secrets.DISTROCHANNELS_FILE_URL }}
+      run: |
+        curl -o original.m3u $FILE_URL
+
+        # Add custom notice at the top of the file
+        echo '# This m3u presented by https://t.me/FreeDishBhai' > Sun-NXT.m3u
+        echo '# API from dishlive24 (FreeDishBhai)' >> Sun-NXT.m3u
+        cat original.m3u >> Sun-NXT.m3u
+        rm original.m3u
+
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+        git add DistroTV.m3u
+        git commit -m "Update DistroTV.m3u file." || echo "No changes to commit"
+
+        git pull origin main --rebase
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+        git push origin HEAD:main
