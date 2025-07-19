@@ -1,4 +1,4 @@
-[![Update DistroTV Playlist](https://github.com/dishlive24/DistroTV-Hls-Fetcher/actions/workflows/update.yml/badge.svg)](https://github.com/dishlive24/DistroTV-Hls-Fetcher/actions/workflows/update.yml)
+[![Update DistroTV Playlist](https://github.com/dishlive24/DistroTV-Hls-Fetcher/actions/workflows/update.yml/badge.svg)]()
 
 
 
