@@ -1,6 +1,3 @@
-[![Update TVChannels Playlist](https://github.com/dishlive24/DistroTV-Hls-Fetcher/actions/workflows/update.yml/badge.svg)]()
-
-
 
 # 🎬How To Play
 
