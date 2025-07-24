@@ -6,6 +6,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Radio_foorti.png" group-title="FM RADIO", Radio Furti 88FM
+https://stream.zeno.fm/cwa3vg8s8druv
+
 #EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/padma.png" group-title="FM RADIO", Radio Padma
 http://cassini.shoutca.st:9109/radiopadma.mp3
 
