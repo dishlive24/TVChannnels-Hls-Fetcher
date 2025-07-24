@@ -1,0 +1,92 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/padma.png" group-title="FM RADIO", Radio Padma
+http://cassini.shoutca.st:9109/radiopadma.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Bangladesh-betar-logo.jpg/300px-Bangladesh-betar-logo.jpg" group-title="FM RADIO", Bangladesh Betar
+https://as1.digitalsynapsebd.com/proxy/bbdkka/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/spice.png" group-title="FM RADIO", Spice FM
+https://stream.spicefmbd.com/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/jago.png" group-title="FM RADIO", Jago FM
+http://139.59.86.99:12496/stream/1/
+
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/109854.v2.png" group-title="FM RADIO", Hemel Music
+https://stream-173.zeno.fm/s4f64yu82c9uv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Qhl_9YuigeeJ1I1kH7p8v10f_9KHy6S1Ig&s" group-title="FM RADIO", UttorBongo Betar 
+https://stream.zeno.fm/spqbxkqxdf9uv
+
+#EXTINF:-1 tvg-logo="https://www.radio-hitz.com/images/radio-mahananda-98-8-fm.jpg" group-title="FM RADIO", Radio Mohanonda
+https://streaming.radiomahananda.fm/proxy/radiomahananda/stream
+
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Voice_Of_Islam_Radio_Logo_image.jpg" group-title="FM RADIO", Voice Of Islam
+http://voiceofislam.appsunder.com:8000/voiceofislam.mp3
+
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Spotify/Spotify-Logo.wine.png" group-title="FM RADIO", Spotify 1
+https://nl4.mystreaming.net/uber/sportifybollywood/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Spotify/Spotify-Logo.wine.png" group-title="FM RADIO", Spotify 2
+https://nl4.mystreaming.net/uber/bollywoodnow/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png" group-title="FM RADIO", Radio Bangla 
+http://www.islamicpath.net:9898/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/dhaka.png" group-title="FM RADIO", Dhaka FM
+http://118.179.219.244:8000 
+
+ 
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/betar-torongo.png" group-title="FM RADIO", Betar Torongo
+http://voiceofislam.appsunder.com:8000/voiceofislam.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bhumi.png" group-title="FM RADIO", Radio Bhumi
+http://cassini.shoutca.st:9109/radiopadma.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/iran.png" group-title="FM RADIO", Radio Iran
+https://stream.spicefmbd.com/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/vivid-voice.png" group-title="FM RADIO", Vivid Voice
+https://stream.zeno.fm/xuin6ocdc2juv
+
+#EXTINF:-1 tvg-logo="https://liveradios.in/wp-content/uploads/radiogongoon.jpg" group-title="FM RADIO", Radio Goongoon
+https://audio.streamcast.xyz/radio/8000/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/radio-jamuna-fm.png" group-title="FM RADIO", Jamuna FM
+https://listen.openstream.co/5013/audio
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/rajshahi-fm.png" group-title="FM RADIO", Rajshahi FM
+https://stream.zeno.fm/nxfshdayjrdvv
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/shibir.png" group-title="FM RADIO", Shibir FM
+https://as1.digitalsynapsebd.com/proxy/zkpnarpg/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/nilphamari.png" group-title="FM RADIO", Nilphamari FM
+https://stream.zeno.fm/z4khxg4gslgtv
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/provat-fm.png" group-title="FM RADIO", Provat FM
+https://stream.zeno.fm/nlv7ffoe39yvv
+
+#EXTINF:-1 tvg-logo="https://purbakantho.github.io/Radio/Rdio-logo.png" group-title="FM RADIO", Radio Purbakantho 
+https://stream.zeno.fm/r8sntxcw81zuv
+
+#EXTINF:-1 tvg-logo="https://liveradios.in/wp-content/uploads/airkolkatafmrainbow.jpg" group-title="FM RADIO", FM Rainbow Kolkata 
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio05864kbps.m3u8 
+
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bushra.png" group-title="FM RADIO", Radio Bushra
+https://stream.zeno.fm/mzuka1fdxzzuv
+
+#EXTINF:-1 tvg-logo="https://liveradios.in/wp-content/uploads/airkolkatafmgold.jpg" group-title="FM RADIO", FM Gold Kolkata 
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio05764kbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://liveradios.in/wp-content/uploads/mrshidabad.jpg" group-title="FM RADIO", Murshidabad FM 
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://liveradios.in/wp-content/uploads/Radio-Mon-Amar﻿.jpg" group-title="FM RADIO", Radio Mon Amar 
+https://stream.zeno.fm/gr7hoann0vouv
+
+#EXTINF:-1 tvg-logo="" group-title="FM RADIO", 
+
