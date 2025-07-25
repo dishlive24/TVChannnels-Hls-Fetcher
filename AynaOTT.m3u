@@ -9,6 +9,22 @@ https://tvsen6.aynaott.com/channeli/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/cc8f548e-089c-47f6-8b6f-ff8699fb2a3d.png" group-title="AynaOTT", Jamuna TV
 https://tvsen6.aynaott.com/jamunatv/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png" group-title="AynaOTT", NTV 
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f40603ea8a1f35c2a443d35ea23eb6c5" group-title="AynaOTT", RTV HD 
+https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dc9082087a3a8db6c3cb01e361fdac05.png" group-title="AynaOTT", Bangla Vision
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="4f059328-a08e-41c0-aa0e-fb11eb69da7e" tvg-logo="https://s3.aynaott.com/storage/0ce159bdea29fce7e3e85d12bc8a10c5" group-title="AynaOTT", DW News
 https://tvsen6.aynaott.com/dwnews/index.m3u8
  
