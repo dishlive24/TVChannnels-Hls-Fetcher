@@ -23,8 +23,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22886/euronews-spa/thumbh_20231218_175341.png" group-title="Destacados",Euronews EspaÃ±ol
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841.jpg" group-title="Destacados",Kaloopy
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22969/bowery-classics/thumbh_20211018_170611.png" group-title="Destacados",Bowery Classics
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowery-classics/master.m3u8
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22814/mma-junkie/thumbh_20200717_232723.jpg" group-title="Destacados",MMA Junkie
@@ -397,6 +395,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23064/mi-miedo-canal/thumbh_20250617_215414.jpg" group-title="EspaÃ±ol",Mi Miedo Canal
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-miedo-canal/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22886/africanews/thumbh_20231218_175638.png" group-title="African",Africanews
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23201/nolly-africa-hd-gb/thumbh_20250701_173035.jpg" group-title="African",Nolly Africa HD
 https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23132/feva-tv/thumbh_20231005_221519.png" group-title="African",FEVA TV
