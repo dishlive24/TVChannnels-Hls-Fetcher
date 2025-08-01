@@ -3,65 +3,56 @@
 #EXTINF:-1 tvg-id="144" tvg-name="colors_hd" tvg-logo="https://dishlive24.vercel.app/images/colors.png" group-title="Voot", Colors HD
 https://playyonogames.in/live.php?id=144&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="colors_sd" tvg-logo="https://dishlive24.vercel.app/images/colors.png" group-title="Voot", Colors SD
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="1368" tvg-name="colors_sd" tvg-logo="https://dishlive24.vercel.app/images/colors.png" group-title="Voot", Colors SD
+https://playyonogames.in/live.php?id=1368&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="colors_bangla_hd" tvg-logo="https://dishlive24.vercel.app/images/colorsbangla.png" group-title="Voot", Colors Bangla HD
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="756" tvg-name="colors_bangla_hd" tvg-logo="https://dishlive24.vercel.app/images/colorsbangla.png" group-title="Voot", Colors Bangla HD
+https://playyonogames.in/live.php?id=756&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="colors_bangla_sd" tvg-logo="https://dishlive24.vercel.app/images/colorsbangla.png" group-title="Voot", Colors Bangla SD
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="1369" tvg-name="colors_bangla_sd" tvg-logo="https://dishlive24.vercel.app/images/colorsbangla.png" group-title="Voot", Colors Bangla SD
+https://playyonogames.in/live.php?id=1369&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="colors_bangla_cinema" tvg-logo="https://dishlive24.vercel.app/images/colorsbanglacinema.png" group-title="Voot", Colors Bangla Cinema
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="1657" tvg-name="colors_bangla_cinema" tvg-logo="https://dishlive24.vercel.app/images/colorsbanglacinema.png" group-title="Voot", Colors Bangla Cinema
+https://playyonogames.in/live.php?id=1657&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="rishtey" tvg-logo="https://dishlive24.vercel.app/images/colorsrishtey.png" group-title="Voot", Colors Rishtey 
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="279" tvg-name="rishtey" tvg-logo="https://dishlive24.vercel.app/images/colorsrishtey.png" group-title="Voot", Colors Rishtey 
+https://playyonogames.in/live.php?id=279&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="cineplex_hd" tvg-logo="https://dishlive24.vercel.app/images/cineplex.png" group-title="Voot", Colors Cineplex HD
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="1477" tvg-name="cineplex_hd" tvg-logo="https://dishlive24.vercel.app/images/cineplex.png" group-title="Voot", Colors Cineplex HD
+https://playyonogames.in/live.php?id=1477&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="cineplex_sd" tvg-logo="https://dishlive24.vercel.app/images/cineplex.png" group-title="Voot", Colors Cineplex SD
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="482" tvg-name="cineplex_sd" tvg-logo="https://dishlive24.vercel.app/images/cineplex.png" group-title="Voot", Colors Cineplex SD
+https://playyonogames.in/live.php?id=482&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="mtv_hd" tvg-logo="https://dishlive24.vercel.app/images/mtv.png" group-title="Voot", MTV HD
+#EXTINF:-1 tvg-id="1145" tvg-name="mtv_hd" tvg-logo="https://dishlive24.vercel.app/images/mtv.png" group-title="Voot", MTV HD
 https://playyonogames.in/live.php?id=1145&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="mtv_sd" tvg-logo="https://dishlive24.vercel.app/images/mtv.png" group-title="Voot", MTV SD
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="248" tvg-name="mtv_sd" tvg-logo="https://dishlive24.vercel.app/images/mtv.png" group-title="Voot", MTV SD
+https://playyonogames.in/live.php?id=248&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="cineplex_bollywood" tvg-logo="https://dishlive24.vercel.app/images/cineplexbollywood.png" group-title="Voot", Cineplex Bollywood 
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="1763" tvg-name="cineplex_bollywood" tvg-logo="https://dishlive24.vercel.app/images/cineplexbollywood.png" group-title="Voot", Cineplex Bollywood 
+https://playyonogames.in/live.php?id=1763&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="cineplex_superhits" tvg-logo="https://dishlive24.vercel.app/images/cineplexsuperhits.png" group-title="Voot", Cineplex Superhits
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/ 
+#EXTINF:-1 tvg-id="1450" tvg-name="cineplex_superhits" tvg-logo="https://dishlive24.vercel.app/images/cineplexsuperhits.png" group-title="Voot", Cineplex Superhits
+https://playyonogames.in/live.php?id=1450&format=.m3u8|Referer=https://playyonogames.in/ 
 
-#EXTINF:-1 tvg-id="" tvg-name="nick_hindi" tvg-logo="https://dishlive24.vercel.app/images/nick.png" group-title="Voot", Nick Hindi
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="545" tvg-name="nick_hindi" tvg-logo="https://dishlive24.vercel.app/images/nick.png" group-title="Voot", Nick Hindi
+https://playyonogames.in/live.php?id=545&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="nick_bangla" tvg-logo="https://dishlive24.vercel.app/images/nickbangla.png" group-title="Voot", Nick Bangla 
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="1341" tvg-name="nick_bangla" tvg-logo="https://dishlive24.vercel.app/images/nickbangla.png" group-title="Voot", Nick Bangla 
+https://playyonogames.in/live.php?id=1341&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="sonic_hindi" tvg-logo="https://dishlive24.vercel.app/images/sonic.png" group-title="Voot", Sonic Hindi
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="815" tvg-name="sonic_hindi" tvg-logo="https://dishlive24.vercel.app/images/sonic.png" group-title="Voot", Sonic Hindi
+https://playyonogames.in/live.php?id=815&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="sonic_bangla" tvg-logo="https://dishlive24.vercel.app/images/sonicbangla.png" group-title="Voot", Sonic Bangla
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="1345" tvg-name="sonic_bangla" tvg-logo="https://dishlive24.vercel.app/images/sonicbangla.png" group-title="Voot", Sonic Bangla
+https://playyonogames.in/live.php?id=1345&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="nickjr" tvg-logo="https://dishlive24.vercel.app/images/nickjr.png" group-title="Voot", Nick Jr
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="548" tvg-name="nickjr" tvg-logo="https://dishlive24.vercel.app/images/nickjr.png" group-title="Voot", Nick Jr
+https://playyonogames.in/live.php?id=548&format=.m3u8|Referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="" tvg-name="nick_hd+" tvg-logo="https://dishlive24.vercel.app/images/nickhd.png" group-title="Voot", Nick HD Plus
-https://playyonogames.in/live.php?id=&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-id="1226" tvg-name="nick_hd+" tvg-logo="https://dishlive24.vercel.app/images/nickhd.png" group-title="Voot", Nick HD Plus
+https://playyonogames.in/live.php?id=1226&format=.m3u8|Referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-id="" tvg-name="news_18_in" tvg-logo="https://dishlive24.vercel.app/images/news18india.png" group-title="Voot", News 18 India
-
-#EXTINF:-1 tvg-id="" tvg-name="news_18_bangla" tvg-logo="https://dishlive24.vercel.app/images/news18bangla.png" group-title="Voot", News 18 Bangla
-
-#EXTINF:-1 tvg-id="" tvg-name="sports_2_hindi" tvg-logo="https://dishlive24.vercel.app/images/starsports2hindi.png" group-title="Voot", Star Sports 2 Hindi
-
-#EXTINF:-1 tvg-id="" tvg-name="sports_2_hindi_hd" tvg-logo="https://dishlive24.vercel.app/images/starsports2hindihd.png" group-title="Voot", Star Sports 2 Hindi HD
-
-
-
-
+https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB_index.m3u8
